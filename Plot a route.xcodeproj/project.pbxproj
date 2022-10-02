@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C447FA6B28E9F71000B9E0AD /* Alert.swift in Sources */ = {isa = PBXBuildFile; fileRef = C447FA6A28E9F71000B9E0AD /* Alert.swift */; };
 		C45842A628E7584F0021EE4A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C45842A528E7584F0021EE4A /* AppDelegate.swift */; };
 		C45842A828E7584F0021EE4A /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C45842A728E7584F0021EE4A /* SceneDelegate.swift */; };
 		C45842AA28E7584F0021EE4A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C45842A928E7584F0021EE4A /* ViewController.swift */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C447FA6A28E9F71000B9E0AD /* Alert.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alert.swift; sourceTree = "<group>"; };
 		C45842A228E7584F0021EE4A /* Plot a route.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Plot a route.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C45842A528E7584F0021EE4A /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C45842A728E7584F0021EE4A /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -57,6 +59,7 @@
 				C45842A528E7584F0021EE4A /* AppDelegate.swift */,
 				C45842A728E7584F0021EE4A /* SceneDelegate.swift */,
 				C45842A928E7584F0021EE4A /* ViewController.swift */,
+				C447FA6A28E9F71000B9E0AD /* Alert.swift */,
 				C45842AB28E7584F0021EE4A /* Main.storyboard */,
 				C45842AE28E758510021EE4A /* Assets.xcassets */,
 				C45842B328E758510021EE4A /* Info.plist */,
@@ -136,6 +139,7 @@
 			files = (
 				C45842AA28E7584F0021EE4A /* ViewController.swift in Sources */,
 				C45842A628E7584F0021EE4A /* AppDelegate.swift in Sources */,
+				C447FA6B28E9F71000B9E0AD /* Alert.swift in Sources */,
 				C45842A828E7584F0021EE4A /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
